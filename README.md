@@ -58,7 +58,7 @@ You may check server status on [MolMoe Network Status Page](https://status.mol.m
  - DN42 IPv4: `172.23.7.69`
  - DN42 IPv6: `fdcf:fabc:3c41::12`
  - Link-local IPv6: `fe80::603`
- - WireGuard public key: `0GG8Ke0DIQvm1KiV8u3TPz3bqJQXB/vKbCn46Ji+bzw=`
+ - WireGuard public key: `7PAPZ0LjGZ0nUu0pCKdtEFjLbeONga8TJUlxhn/45VQ=`
  - DN42 Name: `cer01.mol.dn42`
 
 Peers for CERxx should have a CERNET IPv6 address. IPv4 peering not supported due to NAT.
