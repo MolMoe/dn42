@@ -50,6 +50,7 @@ You may check server status on [MolMoe Network Status Page](https://status.mol.m
  - Link-local IPv6: `fe80::603`
  - WireGuard public key: `wNNbJyoFBrlpq53p61Ur8V2RNfS3U7KADlK7he64qRk=`
  - DN42 Name: `hk02.mol.dn42`
+ - Bandwidth: `100Mbps`
 
 ### CER01
  - Automatic Peering: [@molmoe_cer01_bot on Telegram](https://t.me/molmoe_cer01_bot)
@@ -60,6 +61,7 @@ You may check server status on [MolMoe Network Status Page](https://status.mol.m
  - Link-local IPv6: `fe80::603`
  - WireGuard public key: `7PAPZ0LjGZ0nUu0pCKdtEFjLbeONga8TJUlxhn/45VQ=`
  - DN42 Name: `cer01.mol.dn42`
+ - Bandwidth: `1Gbps`
 
 Peers for CERxx should have a CERNET IPv6 address. IPv4 peering not supported due to NAT.
 
