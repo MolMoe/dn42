@@ -52,7 +52,7 @@ You may check server status on [MolMoe Network Status Page](https://status.mol.m
  - DN42 Name: `hk02.mol.dn42`
 
 ### CER01
-
+ - Automatic Peering: [@molmoe_cer01_bot on Telegram](https://t.me/molmoe_cer01_bot)
  - Endpoint: `(Hidden)`
  - Clearnet IPv6: `(Hidden)`
  - DN42 IPv4: `172.23.7.69`
